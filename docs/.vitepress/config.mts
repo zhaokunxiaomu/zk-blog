@@ -4,6 +4,8 @@ export default defineConfig({
   title: '赵坤的博客',
   description: '分享技术心得与生活感悟',
   lang: 'zh-CN',
+  base: '/blog/',
+  head: [['link', { rel: 'icon', href: '/blog/logo.png', type: 'image/png' }]],
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },

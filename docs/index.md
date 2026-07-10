@@ -6,7 +6,7 @@ hero:
   text: '个人技术博客'
   tagline: 分享技术心得，记录成长轨迹
   image:
-    src: /zkk.png
+    src: /logo.png
     alt: 赵坤
   actions:
     - theme: brand
